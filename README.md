@@ -45,7 +45,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
   <br><br>  <h4><b>About Us</b></h4>
   <div class="w3-row">
     <div class="w3-third w3-container ">
-    <img src="dao.JPG" alt="dao" width="100%" height="100%">
+    <img src="dao.jpg" alt="dao" width="100%" height="100%">
     <h4>ชื่อ : นางสาววรัชยา ชูคง</h4>
     <h4>ชื่อเล่น : ดาว</h4>
     <h4>อายุ : 20 ปี</h4>
@@ -54,7 +54,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <a href="https://www.instagram.com/starwaruch/" target="_blank"><i class="fa fa-instagram"></i></a>
   </div>
   <div class="w3-third w3-container ">
-    <img src="pond.JPG" alt="pond" width="100%" height="100%">
+    <img src="pond.jpg" alt="pond" width="100%" height="100%">
     <h4>ชื่อ : นางสาวนิตยกานต์ สุวรรณศิลป์</h4>
     <h4>ชื่อเล่น : ปอนด์</h4>
     <h4>อายุ : 21 ปี</h4>
@@ -63,7 +63,7 @@ body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif}
     <a href="https://www.instagram.com/pondnittayakan/" target="_blank"><i class="fa fa-instagram"></i></a>
   </div>
   <div class="w3-third w3-container ">
-    <img src="boat.JPG" alt="boat" width="100%" height="100%">
+    <img src="boat.jpg" alt="boat" width="100%" height="100%">
     <h4>ชื่อ : นายราเชน ปานุกูล</h4>
     <h4>ชื่อเล่น : โบ๊ท</h4>
     <h4>อายุ : 20 ปี</h4>
